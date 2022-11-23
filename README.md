@@ -226,7 +226,7 @@ This program is a sandbox 2D application simulating the interactions between a l
 
 <br>
 
-## [🌐 Portfolio *(2021)*](https://github.com/DarioNonis/Portfolio)
+## [🌐 Portfolio *(2022)*](https://github.com/DarioNonis/Portfolio)
 
 This project is a website portfolio made to present my computer science projects. It is a one-page responsive website programmed with HTML, CSS, and JavaScript...
 
