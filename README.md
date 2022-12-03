@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://dario-nonis.000webhostapp.com/"><img src="https://cdn.discordapp.com/attachments/923160844664188939/1043920971440066591/banner.png" width="100%"></a>
+	<a href="https://dario-nonis.000webhostapp.com/"><img src="https://cdn.discordapp.com/attachments/923160844664188939/1048558390722433065/banner2.png" width="100%"></a>
 </p>
 
 <br>
