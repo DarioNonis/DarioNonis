@@ -8,7 +8,7 @@
 
 Currently in general terminal class at **[Don Bosco](http://www.donbosco-landser.net/)** high school, my specialty subjects are mathematics and physics-chemistry.
 
-More informations on my website: **[https://dario-nonis.000webhostapp.com/](https://dario-nonis.000webhostapp.com/)**
+More informations on my website: **[https://portfolio.dariononis.repl.co](https://portfolio.dariononis.repl.co)**
 
 <br>
 
